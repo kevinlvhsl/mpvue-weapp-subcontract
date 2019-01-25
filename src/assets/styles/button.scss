@@ -1,0 +1,87 @@
+.btn {
+    text-align: center;
+    @extend .brs10;
+}
+
+// 底部按钮样式
+.btn-bottom {
+    height: 100rpx;
+    line-height: 100rpx;
+    color: #fff;
+    text-align: center;
+    font-size: 32rpx;
+    text-align: center;
+    letter-spacing: 1px;
+    background-color: $theme-color;
+}
+
+// 底部无背景
+.btn-bottom2 {
+    height: 100rpx;
+    font-size: 32rpx;
+    text-align: center;
+    letter-spacing: 1px;
+    background-color: #fff;
+}
+
+.btn-ghost {
+    display: inline-block;
+    background-color: #fff;
+    border: 1rpx solid #CDCDCD;
+    box-shadow: 0 2rpx 4rpx 0 #CDCDCD;
+    color: 666;
+}
+
+.btn-theme {
+    display: inline-block;
+    background-color: $theme-color;
+    border: 1rpx solid $theme-color;
+    color: #fff;
+}
+
+//尺寸
+// 底部最大的按钮
+.btn-1 {
+    width: 750rpx;
+    height: 100rpx;
+    background-color: $theme-color;
+}
+
+.btn-2 {
+    width: 630rpx;
+    height: 88rpx;
+    line-height: 88rpx;
+    margin: 0 auto;
+    background-color: $theme-color;
+}
+
+.btn-3 {
+    width: 360rpx;
+    height: 75rpx;
+    line-height: 75rpx;
+    font-size: 28rpx;
+    padding: 0 30rpx;
+}
+
+.btn-4 {
+    height: 60rpx;
+    line-height: 60rpx;
+    font-size: 22rpx;
+    padding: 0 30rpx;
+}
+
+.btn-5 {
+    height: 50rpx;
+    line-height: 50rpx;
+    font-size: 22rpx;
+    padding: 0 26rpx;
+}
+
+.btn-repeat {
+    text-align: center;
+    background-image: url(http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/prize/btn-repeat.png);
+    background-repeat: repeat-x;
+    border-radius: 8px;
+    background-size: 23rpx 100%;
+    color: #fff;
+}

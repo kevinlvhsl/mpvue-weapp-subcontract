@@ -1,0 +1,25 @@
+{
+    "pages": [
+        "pages/index/main",
+        "pages/logs/main"
+    ],
+    "subPackages": [{
+            "root": "pages/myMO/",
+            "pages": [
+                "counter/main"
+            ]
+        },
+        {
+            "root": "pages/OPKG/",
+            "pages": [
+                "logs2/main"
+            ]
+        }
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "WeChat",
+        "navigationBarTextStyle": "black"
+    }
+}

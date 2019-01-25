@@ -1,0 +1,22 @@
+view,
+text,
+image {
+    box-sizing: border-box;
+}
+
+div,
+p,
+span,
+input,
+label {
+    box-sizing: border-box;
+}
+
+.van-tabs__nav--line {
+    .van-tab--active {
+        color: $theme-color
+    }
+    .van-tabs__line.van-tabs__line {
+        background-color: $theme-color;
+    }
+}

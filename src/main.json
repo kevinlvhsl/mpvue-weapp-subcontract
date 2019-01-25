@@ -1,0 +1,83 @@
+{
+    "pages": [
+        "pages/index/main",
+        "pages/productDetail/main",
+        "pages/login/main",
+        "pages/bindMobile/main",
+        "pages/gift/main",
+        "pages/giftDetail/main",
+        "pages/giftSendCard/main",
+        "pages/giftHistory/main",
+        "pages/my/main",
+        "pages/myCards/main",
+        "pages/myCardDetail/main",
+        "pages/myCardActive/main",
+        "pages/myCardActiveSuccess/main",
+        "pages/myCoupon/main",
+        "pages/cardExchange/main",
+        "pages/address/main",
+        "pages/addressEdit/main",
+        "pages/orders/main",
+        "pages/orderDetail/main",
+        "pages/orderSure/main",
+        "pages/orderRefund/main",
+        "pages/orderRefundResult/main",
+        "pages/expressDetail/main",
+        "pages/receiveCard/main",
+        "pages/comment/main",
+        "pages/commentDetail/main",
+        "pages/commentEdit/main",
+        "pages/paymentSuccess/main",
+        "pages/payWeb/main",
+        "pages/turnplate/main",
+        "pages/prizeRecord/main"
+    ],
+    "subPackages": [{
+        "root": "pages/Mall/",
+        "pages": [
+            "productDetail/main"
+        ]
+    }],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "步步鸡",
+        "navigationBarTextStyle": "black"
+    },
+    "tabBar": {
+        "selectedColor": "#f8b428",
+        "list": [{
+                "text": "商城",
+                "pagePath": "pages/index/main",
+                "iconPath": "/static/tabbar/home.png",
+                "selectedIconPath": "/static/tabbar/home-on.png"
+            },
+            {
+                "text": "送礼",
+                "pagePath": "pages/gift/main",
+                "iconPath": "/static/tabbar/gift.png",
+                "selectedIconPath": "/static/tabbar/gift-on.png"
+            },
+            {
+                "text": "我的",
+                "pagePath": "pages/my/main",
+                "iconPath": "/static/tabbar/my.png",
+                "selectedIconPath": "/static/tabbar/my-on.png"
+            }
+        ]
+    },
+    "usingComponents": {
+        "van-toast": "/static/vant/toast/index",
+        "van-popup": "/static/vant/popup/index",
+        "van-row": "/static/vant/row/index",
+        "van-col": "/static/vant/col/index",
+        "van-stepper": "/static/vant/stepper/index",
+        "van-field": "/static/vant/field/index",
+        "van-cell": "/static/vant/cell/index",
+        "van-cell-group": "/static/vant/cell-group/index",
+        "van-tabs": "/static/vant/tabs/index",
+        "van-tab": "/static/vant/tab/index"
+
+
+    }
+}

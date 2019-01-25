@@ -1,0 +1,72 @@
+
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/card.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/bubuji.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/kefu.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/change.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/index.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/give.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/gift.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/my.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/order.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/qa.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/send.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/view.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/commend.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/more.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/hot.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/share.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/home1.png
+// 订单
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/checked.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/wuliu.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/icon/right.png
+
+// 两个banner图
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/index_banner.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_banner.png
+
+// 礼品卡图
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_card_1.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_card_2.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_card_3.png
+// 首页两个产品图
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/index_1.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/index_2.png
+// 送礼选择礼物selectGift页面两个列表图
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_thumbnail_1.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_thumbnail_2.png
+// 送礼页面两个产品图
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_2.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_1.png
+// 两个产品清单图
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_detail_1.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_detail_2.png
+// 送礼记录中卡的一半图
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/harf_card_1.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/harf_card_2.png
+// 产品介绍详情图
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/product_intoduce.png
+
+// 我的步步鸡 无卡无订单
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/card_empty.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/order_empty.png
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_empty.png
+// 订单详情
+http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/header-order.png
+
+
+
+"pics" : {
+        "DETAIL_1" : "http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/product_intoduce_2_1.png",
+        "DETAIL_2" : "http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/product_intoduce_2_2.png",
+        "DETAIL_3" : "http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/product_intoduce_2_3.png",
+        "DETAIL_4" : "http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/product_intoduce_2_4.png",
+        "INDEX" : "http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/index_2.png",
+        "GFIT" : "http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_thumbnail_2.png",
+        "GIFT_DETAIL" : "http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/gift_detail_2.png"
+    },
+    "card_pics" : {
+        "CARD_HARF" : "http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/harf_card_2.png",
+        "CARD" : "http://p-za-chicken.oss-cn-hzfinance.aliyuncs.com/bubuji/card_2.png"
+    },
+
