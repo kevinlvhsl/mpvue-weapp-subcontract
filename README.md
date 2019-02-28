@@ -1,6 +1,7 @@
 # mp-fenbao
 
-> 测试分包
+> mpvue 分包的demo
+
 
 ## Build Setup
 
